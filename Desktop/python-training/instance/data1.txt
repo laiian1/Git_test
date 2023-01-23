@@ -1,0 +1,3 @@
+哈哈哈哈哈哈哈哈
+root=bs4.BeautifulSoup(data, "heml.parser")
+print(root.title)
